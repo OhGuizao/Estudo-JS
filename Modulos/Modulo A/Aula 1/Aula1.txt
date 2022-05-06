@@ -1,0 +1,36 @@
+Aula 1 - Iniciando no JS
+    Conhecendo o que ele é capaz de fazer...
+
+        # Primeiramente entendendo o coneito de cliente x servidor
+            - servidor
+                O servidor é aquele que fornece os dados
+                Fornece um conteudo sempre a um cliente
+                Maquinas de alta performace
+            - cliente
+                O cliente é aquele que utiliza um serviço fornecido por um servidor
+                Cliente solicita um arquivo aos servidores obtendo sempre uma resposta
+
+            Sendo assim o JS, foi criado para ser usado no lado do cliente, porém com suas atualizações, hoje em dia ele trabalha também ao lado dos
+        
+        # Agora vamos conhecer quem trabalha para fzr o Website
+            - Jornalista (HTML):
+                @Conteúdo
+                Escreve a reportagem
+                Busca fotos q ilustrem-a
+                Procura midias
+            - Designer (CSS):
+                @Estilo
+                Pega todas as midias e os deixa bonitos
+                Organizando cores, tamanhos e posições
+                Dimensionar formatos diferentes
+            - Programador (JAVA SCRIPT):
+                @Interação
+                Trabalha com situações de engenharia, configurações, segurança e muito mais
+        
+        # Quem usa?
+            - Todas os maiores nomes da internet como:
+                Google
+                Youtube
+                Linkedin
+                Netflix
+                Facebook
