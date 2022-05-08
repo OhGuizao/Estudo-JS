@@ -1,0 +1,48 @@
+Aula 2 - Evolução do JS
+    Conhecendo um pouco da história e evolução dessa técnologia.
+
+        # Em meados da década de 1970 
+            Onde ocorria a guerra fria 
+            (mas, também conheciada por guerra técnologica),
+            no qual os EUA perdiam para a união soviética.
+            Até que a DARPA (centro militar técnologico dos Eua)
+            iniciaram uma rede na qual os computadores da época se comunicacavam
+            Dando início a Arpanet, ou que conhecemos hoje como internet
+        
+        #  Já em 1993
+            Um inglês chamado Tim Bernes Li, pesquisou um meio de transformar o conteúdo mais interativo
+            Surgindo a linguaguem HTML, o protocólo TCP/IP e também o WWW (World Wide Web)
+            E o primeiro navegador MOSAIC criado por Marc Anderson
+        
+        # E em 1995
+            Teve a fundação da linguagem Mocca e uma outra chamada Java
+            era falada pela midia as linguagens do futuro
+            E no mesmo ano a Net Escape que era uma empresa fundada por Marc Anderson e outro milionario
+            Tiveram a ideia de usar o mesmo nome, por isso das duas linguagens possuirem nome parecido
+            Sendo um grande sucesso e atraindo a atenção da Microsoft e criando o internet explorer
+            E assim a Microsoft copia a Net Escape criando e melhorando a linguagem Java Script e denominando J Script
+
+        # Por isso em 1997
+            Net Escape padroniza a linguagem com uma empresa russa chamada Ecma
+            Tendo Inicio ao Ecma Script ou então o conhecido hoje em dia o Java Script padrozinado
+
+        # No ano de 2002
+            A Microsoft implanta o Internet Explorer em seus sistemas operacionais
+            Assim acabando com a briga e passando por cima do Net Escape
+            Porém se dando inicio ao Mozilla, ou conhecido hoje em dia como Fire Fox
+
+        # E em 2008
+            A Google entra na briga criando o google chrome
+            Tendo um motor que roda o JS e também código aberto
+        
+        # Sendo assim em 2010
+            Por conta do código aberto do V8, motor do google chrome se da inicio ao conhecido como NODEJS
+            Sendo agora também usado além do lado do cliente mas sim também no lado do servidor
+
+        # A partir daqui
+            O JS criou varios frameworks como
+            Jquery, Angular, React(Google), Vue, Electrom (Framework para interação gráfica), Cordova e etc...
+        
+        # Também sendo usado na aréa de jogos
+            Como frameworks
+            Phazer, PixiJS, Impact, Melonjs, CraftyJS
