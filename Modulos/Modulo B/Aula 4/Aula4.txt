@@ -1,0 +1,21 @@
+Aula 4 - Nosso primeiro Script
+    Vamos começar!
+
+    # Aqui a gente começa a usar os programas baixados na ultima Aula
+
+        1° Abra o VS Code
+        2° Crie um arquivo .html
+        3° Crie um arquivo .js
+        4° Faça a conexão desses arquivos
+        
+    # E estamos prontos para começar com esses comandos de JS
+        Comandos
+            > window.alert("Primeiro Comando JS") = janela.caixa_de_alerta("texto")
+            > window.confirm("Está gostando de JS?") = janela.caixa_de_confirmação("texto")
+            > window.prompt("Qual seu nome?") = janela.caixa_de_pergunta("texto")
+        Explicação
+            window - janela pu então navegador
+            .alert - caixa de alerta
+            .confirm - caixa de confirmação
+            .prompt - caixa de pergunta
+            ("") - texto a inserir
