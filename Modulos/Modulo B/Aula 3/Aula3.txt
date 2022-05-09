@@ -1,0 +1,30 @@
+Aula 3 - Primeiros passos no JS
+    # Como aprender a linguagem?
+
+        - Prática
+        - Persistência
+        - Compromisso
+        - Foco
+        - Anotações
+        - Interações
+
+    # Livros:
+
+        - Guia definitivo
+        - Guia do programador
+    
+    # Dúvidas comuns:
+
+        - Sem idade mínima ou maxima para aprender
+        - As mulheres tem sim espaço na área de técnologia
+        - Meta as caras, rompendo barreiras e limitações 
+        - Progamar não precisa ser o mestre do inglês ou o mestre da matemática
+        - Lógica de progamação é importante sim!
+        - Não existe linguagem melhor ou pior
+    
+    # Requisitos
+
+        - Instalação e execução de software:
+            Navegador - Chrome
+            Editor de cógido - Visual Estudio Code
+            NodeJS(Para esse curso)
