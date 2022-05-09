@@ -8,10 +8,13 @@ Aula 3 - Primeiros passos no JS
         - Anotações
         - Interações
 
-    # Livros:
-
-        - Guia definitivo
-        - Guia do programador
+    # Conteúdo para estudo:
+        - Livros:
+            Guia definitivo
+            Guia do programador
+        - Sites:
+            Ecma
+            Mozzila
     
     # Dúvidas comuns:
 
