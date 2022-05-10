@@ -1,0 +1,38 @@
+Aula 5 - Tipos de dados e variáveis
+    Conhecendo um pouco da filosofia do JS
+
+    # Sinais
+        - "=" se lê como recebe e nunca como igual
+        - "null"  se lê como vazio
+    
+    # Variáveis
+        @ var n1 = 5
+        - inicia uma variável com "var"
+        - logo após um nome, uma indentificação
+            - Podem começar com letra, $ ou _
+            - Não podem começar com números
+            - É possível usar letras ou números
+            - É possível usar acentos ou símbolos
+            - Não podem conter espaço
+            - Não podem conter palavras reservadas
+        - depois uma atribuição
+        # Dicas Varviáveis  
+            - Tomar cuidado com maiúsculo e minúsculo
+            - Tentar escolher nomes coerentes para as variáveis
+
+    # Tipos Primitivos
+        - Number: 5 18 -21 0.5 -15.9 3.14 8.0
+        - Boolean: true false
+        - String: "Google" 'JavaScript' `Kaillayne`
+
+    # Outros tipos Primitivos
+        - number
+            - infinity
+            - NaN
+        - string
+        - Boolean
+        - null
+        - undefined
+        - object
+            - Array
+        - function
