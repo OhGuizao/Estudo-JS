@@ -1,0 +1,39 @@
+Aula 7 - Operadores do JS
+    Parte I
+
+        # Operadores
+            - Aritméticos (Binários) 
+                Precisam de dois operandos
+                5 + 2 = 7    -   Soma (+)
+                5 - 2 = 3    -   Subtração (-) 
+                5 * 2 = 10   -   Multiplicação (*)
+                5 / 2 = 2.5  -   Divisão real (/)
+                5 % 2 = 1    -   Resto da divisão inteira e NÃO PORCETAGEM (%)
+                5 ** = > 25  -   Potênciação (**)
+
+            - Ordem de precedência - ATENÇÃO!
+                1° ()
+                2° **
+                3° * / %
+                4° + -
+
+            - Atribuição
+                Atribuição simples
+                    var a = 5 + 3 = 8
+                    var b = a % 5 = 3
+                    var c = 5 * b ** 2 = 45
+                    var d = 10 - a / 2 = 6
+                    var e = 6 * 2 / d = 2
+                    var f = b % e + 4 / e = 3
+
+                Auto Atribuições    Simplificando       Resultado
+
+                                    var n = 3          
+                    n = n + 4           n+=4                7
+                    n = n - 5           n-=5                2
+                    n = n * 4           n*=4                8
+                    n = n / 2           n/=2                4
+                    n = n ** 2          n**=2               16
+                    n = n % 5           n%=5                1
+
+                    
