@@ -1,0 +1,51 @@
+Aula 8 - Operadores JS
+    Parte II
+
+        #Operadores
+
+            - Relacionais
+            Respodem sempre um valor boleano (verdadeiro ou falso)
+
+                Operadores    Resposta    Como se lê:
+                ---------------------------------------
+                5 > 2        true        Maior que
+                5 < 2        false       Menor que
+                5 >= 2       true        Maior ou Igual
+                5 <= 2       false       Menor ou Igual
+                5 == 5       true        Igual                       5==="5"    false        pois um é número e o outro é string
+                4 != 4       false       Não Igual (Diferente)
+
+            - Lógicos
+
+                Operadores    Resposta          Como se lê:
+                -------------------------------------------
+                !             true or false    Negação   (Não)
+                &&            true or false    Conjunção (E)
+                ||            true or false    Disjunção (OU)
+
+                E com isso mudando a ordem de precedência:
+                1° () ** / ...
+                2° > < >= ...
+                3° !
+                4° &&
+                5° ||
+
+
+            - Ternário
+
+                Corpo do Operador
+                teste ? true : false
+
+                ex:
+                média>=7.0 ? "Aprovado" : "Reprovado"
+                var res = x % 2 == 0 ? 5 : 9
+
+                > var idade = 19
+                undefined
+                > var r = idade >= 18 ? "maior":"menor"
+                undefined
+                > r
+                'maior'
+
+            
+            Fim do módulo B!
